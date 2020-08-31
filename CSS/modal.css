@@ -21,8 +21,8 @@
 .modal{
     position: relative;
     background-color: white;
-    width: 30%;
-    height: 30%;
+    width: 60%;
+    height: 60%;
     display: flex;
     justify-content: space-around;
     align-items: center;
